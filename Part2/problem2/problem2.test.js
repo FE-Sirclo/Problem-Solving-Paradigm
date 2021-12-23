@@ -1,4 +1,4 @@
-const fibo = require("./problem1");
+const fibo = require("./problem2");
 
 test("Test 1", () => {
   expect(fibo(0)).toEqual(0);
@@ -22,7 +22,7 @@ test("Test 7", () => {
   expect(fibo(7)).toEqual(13);
 });
 test("Test 8", () => {
-  expect(fibo(9)).toEqual(13);
+  expect(fibo(9)).toEqual(34);
 });
 test("Test 9", () => {
   expect(fibo(10)).toEqual(55);
