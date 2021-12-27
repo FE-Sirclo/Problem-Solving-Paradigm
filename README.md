@@ -1,9 +1,9 @@
-## BASIC PROGRAMMING 2 PART 2
+## PROBLEM SOLVING PARADIGM
 
 clone project ini dengan cara
 
 ```
-git clone https://github.com/FE-Sirclo/Basic-Programming2-Part2.git
+git clone https://github.com/FE-Sirclo/Problem-Solving-Paradigm.git
 ```
 
 `setelah clone selesai, pindah ke folder hasil clone` -> HAL INI DILAKUKAN 1x saja
